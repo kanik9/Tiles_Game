@@ -6,8 +6,10 @@ Step 1:
   Install Important library
    1. tkinter :
     pip install tkinter
+    
    2.Pillow :
     pip install Pillow
+    
    3.python3 
    
    
